@@ -1,6 +1,6 @@
 # for you—
  To stream Alice in Borderland in peace without getting bombarded with "ads" or usless pop-ups..
-    You should prefer installing this web browser (i also use it), Called Brave, [CLICK HERE](https://apps.apple.com/us/app/brave-private-web-browser-vpn/id1052879175) to get redirected to the app store. 
+    You should prefer installing this web browser (i also use it), called Brave, [CLICK HERE](https://apps.apple.com/us/app/brave-private-web-browser-vpn/id1052879175) to get redirected to the app store. 
 
    # steps—
    1. Once you've successfully installed the browser
